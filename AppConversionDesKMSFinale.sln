@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConversionDesKMSFinale.Android", "AppConversionDesKMSFinale.Android\AppConversionDesKMSFinale.Android.csproj", "{24D46595-B3C8-4FA4-9A43-F7E6F4D4DB11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConversionDesKMSFinale", "AppConversionDesKMSFinale\AppConversionDesKMSFinale.csproj", "{988A503B-52AC-4CE5-96F0-C4FD280635BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppConversionDesKMSFinale", "AppConversionDesKMSFinale\AppConversionDesKMSFinale.csproj", "{988A503B-52AC-4CE5-96F0-C4FD280635BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

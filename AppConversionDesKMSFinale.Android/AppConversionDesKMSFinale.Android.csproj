@@ -88,7 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AppConversionDesKMSFinale\AppConversionDesKMSFinale.csproj">
-      <Project>{CC457DDF-3A09-4508-953B-16E7899E26C0}</Project>
+      <Project>{988A503B-52AC-4CE5-96F0-C4FD280635BD}</Project>
       <Name>AppConversionDesKMSFinale</Name>
     </ProjectReference>
   </ItemGroup>
