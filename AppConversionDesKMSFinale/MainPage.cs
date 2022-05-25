@@ -7,6 +7,7 @@ namespace AppConversionDesKMSFinale
 {
     public class MainPage : ContentPage
     {
+        //test commentaire
         Entry NumberText;
         Button convertButton;
         Button switchButton;
